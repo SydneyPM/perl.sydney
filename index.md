@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome!
+title: {{ site.title }} - Welcome!
 ---
 
 Woka woka africa
