@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{{ site.name }}
+Woka woka africa
 
 This is some info
 
