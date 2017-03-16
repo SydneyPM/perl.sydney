@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### {{ site.name }}
+### Foo bar
 
 This is some info
 
