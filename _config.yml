@@ -1,7 +1,8 @@
 title: Sydney Perl Mongers
 name: Sydney Perl Mongers
 description: Perl, in Sydney Australia
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Includes an icon in the footer for each username you enter
