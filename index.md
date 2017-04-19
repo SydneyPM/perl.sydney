@@ -10,6 +10,15 @@ Sydney Perl Mongers is a user group for Perl developers and enthusiasts based in
 
 Sydney.pm has been holding social and technical meetings since the halycon dotcom days of 1998.  Like many user groups, we have peaks and troughs in social activity, with out of town visitors often serving as the catalyst for a catch up.  We're part of the <a href="http://www.pm.org/">Perl Mongers</a> organisation which has user groups around the world.
 
+We Meet Regularly!
+------------------
+
+Thanks to generous hosts we meet regularly to eat pizza, drink alcoholic beverages (in moderation of course) and to discuss the Perl language + technology in general. Meetings are semi-formal, featuring a speaker or two and plenty of opportunity to ask questions, have discussion and the fellowshiping.
+
+We also meet socially for dinner, especially if someone is in town and would like some good company.  If you are visiting Sydney for work or pleasure, let us know so we have a good excuse to get together!
+
+Meetings are announced on the <a href="http://mail.pm.org/mailman/listinfo/sydney-pm/">mailing list</a> as well as our various social media presences.
+
 Email Discussion List
 ---------------------
 
@@ -18,13 +27,6 @@ The <a href="http://mail.pm.org/mailman/listinfo/sydney-pm/">mailing list</a> is
 Discussion is generally low volume but high in fibre.  Some posts may contain nuts.
 
 For job postings, we politely suggest recruiters use <a href="http://jobs.perl.org">jobs.perl.org</a>.
-
-Regular Meetings
-----------------
-
-Our meeting agendas vary from presentations and quizzes through to purely social catchups.  Anyone is welcome to join us, regardless of your level of experience in Perl.
-
-Meetings are announced on the <a href="http://mail.pm.org/mailman/listinfo/sydney-pm/">mailing list</a>.  Sydney.pm is currently in a quiescent period, with occasional meetups for visiting Perl dignitaries but no regular meetups.
 
 Keep in Touch
 -------------
