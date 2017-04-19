@@ -29,8 +29,8 @@ Meetings are announced on the <a href="http://mail.pm.org/mailman/listinfo/sydne
 Keep in Touch
 -------------
 
- * Find us on Facebook: http://www.facebook.com/sydneypm
+ * Find us on [Facebook](http://www.facebook.com/sydneypm)
 
- * Find us on Meetup.com: http://www.meetup.com/sydney-perl
+ * Find us on [Meetup.com](http://www.meetup.com/sydney-perl)
 
- * Find us on GitHub: https://github.com/SydneyPM
+ * Find us on [GitHub](https://github.com/SydneyPM)
