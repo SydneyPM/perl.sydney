@@ -8,7 +8,9 @@ About Us
 
 Sydney Perl Mongers is a user group for Perl developers and enthusiasts based in and around Sydney, Australia.
 
-Sydney.pm has been holding social and technical meetings since the halycon dotcom days of 1998.  Like many user groups, we have peaks and troughs in social activity, with out of town visitors often serving as the catalyst for a catch up.  We're part of the <a href="http://www.pm.org/">Perl Mongers</a> organisation which has user groups around the world.
+Sydney.pm has been holding social and technical meetings since the halycon dotcom days of 1998. Like many user groups, we have peaks and troughs in social activity, with out of town visitors often serving as the catalyst for a catch up.  We're part of the <a href="http://www.pm.org/">Perl Mongers</a> organisation which has user groups around the world.
+
+There is no formal membership, we are simply geeks who enjoy getting together to enjoy our mutual passion.
 
 We Meet Regularly!
 ------------------
